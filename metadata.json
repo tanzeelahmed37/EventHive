@@ -1,0 +1,5 @@
+{
+  "name": "EventHive - Event Management & Ticketing",
+  "description": "A modern, React-based event management and ticketing system. Users can browse events, book tickets with QR codes, and organizers can manage events and track attendees in a real-time dashboard.",
+  "requestFramePermissions": []
+}
